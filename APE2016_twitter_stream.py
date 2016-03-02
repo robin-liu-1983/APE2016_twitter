@@ -120,4 +120,5 @@ twitter_stream10.filter(
            name2,
            name3,
            name4,
-           name5], async=True)
+           name5])
+# async=True)
