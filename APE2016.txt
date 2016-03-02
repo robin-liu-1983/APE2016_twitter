@@ -1,0 +1,28 @@
+http://baike.baidu.com/view/9400266.htm
+
+希拉里·克林顿
+Hillary Diane Rodham Clinton
+Hillary Clinton
+
+ 伯尼·桑德斯
+ Bernard "Bernie" Sanders
+Bernie Sanders
+
+马尔科·卢比奥
+Marco Rubio
+Marco Rubio
+
+特德·克鲁斯
+Ted·Cruise
+Ted Cruise
+Ted Cruz
+
+唐纳德·特朗普
+Donald Trump 
+
+
+
+python twitter_stream_download.py -d "output" -q "Hillary Clinton"
+
+
+
